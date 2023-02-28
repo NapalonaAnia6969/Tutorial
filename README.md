@@ -1,5 +1,4 @@
 # Piwo
-[https://pl.wikipedia.org/wiki/Piwo]
-![obraz]([https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Dark_beer_and_light_beer.jpg/800px-Dark_beer_and_light_beer.jpg)
+![obraz][(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkulp5EyrAg3FM6oqu0bT3NcnveUIZd-hLQ&usqp=CAU)]
 `kocham fjuty`
 :smiley:
